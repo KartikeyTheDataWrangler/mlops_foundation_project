@@ -1,0 +1,9 @@
+mlflow
+dvc
+apache-airflow
+pandas
+scikit-learn
+numpy
+seaborn
+Flask
+-e .
